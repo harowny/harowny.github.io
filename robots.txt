@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://harowny.github.io/sitemap.html.gz
+Sitemap: https://harowny.github.io/app/sitemap.html.gz
+Sitemap: https://harowny.github.io/assets/sitemap.html.gz
+Sitemap: https://harowny.github.io/css/sitemap.html.gz
+Sitemap: https://harowny.github.io/data/sitemap.html.gz
+Sitemap: https://harowny.github.io/includes/sitemap.html.gz
+Sitemap: https://harowny.github.io/item/sitemap.html.gz
+Sitemap: https://harowny.github.io/src/sitemap.html.gz
